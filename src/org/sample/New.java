@@ -8,6 +8,8 @@ public static void main(String[] args) {
 	System.out.println("Phython project");
 	System.out.println("Selinium project");
 	System.out.println("Testng project");
+	System.out.println("Java project");
+
 	
 	
 }
